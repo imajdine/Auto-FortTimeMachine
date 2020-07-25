@@ -22,6 +22,7 @@ Run, Dependancies\injector.bat
 return
 
 ^[::
+Send, ``
 Send, B_Melee_Edged_Scythe_C
 Send, {End}
 
