@@ -1,5 +1,5 @@
 ^j::
-Run, C:\Users\Majd\Desktop\Auto FortTimeMachine\UUU\UuuClient.exe
+Run, UUU\UuuClient.exe
 return
 
 ^k::
@@ -18,7 +18,7 @@ Send, {Enter}
 return
 
 ^p::
-Run, injector.bat
+Run, Dependancies\injector.bat
 return
 
 ^[::
