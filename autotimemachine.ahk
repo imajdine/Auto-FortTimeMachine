@@ -9,20 +9,19 @@ Send, {Enter}
 Send, ``
 Send, Open Athena_Terrain
 Send, {Enter}
-return
-
-^l::
 Send, ``
 Send, summon PlayerPawn_Athena_C
 Send, {Enter}
 return
 
-^p::
+^l::
 Run, Dependancies\injector.bat
 return
 
-^[::
+!p::
 Send, ``
-Send, B_Melee_Edged_Scythe_C
+Send, summon B_Melee_Edged_Scythe_C
+Send, {Enter}
+Sleep, 5
 Send, {End}
 
