@@ -7,15 +7,13 @@ The Dlls in the UUU folder are required by UUU, I did not make them.
 
 -~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
 
-To Open UUU: Ctrl-J
+Ctrl-J: Open UUU
 
-To set shadow quality to 0 and open Athena_Terrain: Ctrl-K
+Ctrl-K: Sets shadow quality to 0 for best performance, opens Athena_Terrain (the chapter 1 map), and summons a playerpawn.
 
-To summon a playerpawn: Ctrl-L
+Ctrl-L: Injects FNTM. (NOTE: ONLY DO THIS WHEN THE LOADING BAR IS FULL OR IT MIGHT NOT WORK!)
 
-To inject FNTM: Ctrl-P
-
-To summon a pickaxe and equip it: Ctrl-[
+Alt-P: Summons a pickaxe & equips it.
 
 -~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
 
